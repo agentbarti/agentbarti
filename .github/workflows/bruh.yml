@@ -1,2 +1,2 @@
-- name: Metrics embed
-  uses: lowlighter/metrics@v3.13
+name: Metrics embed
+ - uses: lowlighter/metrics@v3.13
